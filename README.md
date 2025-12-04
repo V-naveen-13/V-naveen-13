@@ -50,7 +50,7 @@ I’m also exploring **Generative AI**, **Recommendation Systems**, and **Data E
 ---
 
 ## 📫 Connect with Me  
-📍 Chennai, India  
+📍  Bengaluru & Chennai, India  
 📧 [naveen20thkids@gmail.com](mailto:naveen20thkids@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/V-naveen-13) | [Portfolio](https://naveenkumar-v.vercel.app)
 
