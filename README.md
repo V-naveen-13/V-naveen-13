@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Naveen Kumar V 👋</h1>
+<h1 align="center">Hi there, I'm Naveen 👋</h1>
 
 🎓 **M.Sc. Data Science** | Periyar University, Salem  
 💻 **Aspiring Data Scientist** | Passionate about AI, ML, and Cloud Computing  
